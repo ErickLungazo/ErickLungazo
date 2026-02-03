@@ -41,5 +41,6 @@ I am a dedicated technologist passionate about building scalable web application
 * [cite_start]**LinkedIn:** [linkedin.com/in/ek2984/](https://www.linkedin.com/in/ek2984/) [cite: 150, 151]
 * [cite_start]**Portfolio:** [uisen-global.com](https://uisen-global.com/) [cite: 146]
 * [cite_start]**Email:** [ericlungazo@gmail.com](mailto:ericlungazo@gmail.com) [cite: 145]
+* [View my GitHub Profile](https://github.com/ErickLungazo)
 
 > [cite_start]*"Fueling Ideas, Forging Futures"* [cite: 6, 74]
