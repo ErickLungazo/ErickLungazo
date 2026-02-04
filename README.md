@@ -8,9 +8,9 @@ I am a dedicated technologist passionate about building scalable web application
 ## 🚀 Key Projects & Innovations
 
 ### **🤖 MentorConnect (AI-powered Platform)**
-**Role:** Lead Developer
-**Achievement:** **2nd Runners-Up** at Kaimosi Friends University Innovation Project
-**Description:** An AI-driven mentorship platform designed to enhance student guidance, skill growth, and career readiness
+* [cite_start]**Role:** Lead Developer
+* [cite_start]**Achievement:** **2nd Runners-Up** at Kaimosi Friends University Innovation Project
+* [cite_start]**Description:** An AI-driven mentorship platform designed to enhance student guidance, skill growth, and career readiness
 
 ### **🌿 EchoGuard (Environmental Tech)**
 * [cite_start]**Role:** Developer [cite: 176]
